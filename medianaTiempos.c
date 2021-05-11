@@ -23,7 +23,6 @@ int main(int argc, char const *argv[])
     {
         //Iniciamos el contador del reloj
         start = clock();    
-        
         func1(arr);
         //Finalizamos el contador del reloj
         end = clock();  
